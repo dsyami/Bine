@@ -1,0 +1,27 @@
+----WebStreamlit\
+    |----.streamlit\
+    |    |----config.toml
+    |----Controller\
+    |    |----ArgsController.py
+    |    |----ModelController.py
+    |    |----SubjectController.py
+    |----draw\
+    |    |----adjMatrix.py
+    |    |----confusionMatrix.py
+    |----Home.py
+    |----menu.py
+    |----pages\
+    |    |----DataAnalysis.py
+    |    |----Inference.py
+    |    |----Model.py
+
+
+Models\
+    |----DatasetAPI\
+    |----main_Models.py
+    |----Network\
+    |    |----EEGGCNet.py
+    |    |----lib_for_GCN\
+    |----Validation\
+    |----Controller\
+    |----Mapper\
